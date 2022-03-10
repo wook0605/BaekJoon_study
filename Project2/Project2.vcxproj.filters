@@ -243,9 +243,6 @@
     <ClCompile Include="소스74.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Q_Sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="소스75.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -310,6 +307,30 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스95.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스96.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스97.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스98.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스99.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스100.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스101.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스102.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스103.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
